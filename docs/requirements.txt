@@ -4,3 +4,4 @@ sphinx
 sphinx-wagtail-theme
 django-oscar-api
 easy-thumbnails
+razorpay
